@@ -136,7 +136,7 @@ This repository contains:
 
 ## 📸 Linguify-ai poster
 
-<img width="1024" height="1536" alt="be653ff7-d096-4a32-924a-65ccff52f613" src="https://github.com/user-attachments/assets/33ef2e53-46a9-4541-8c24-d3f0f6f91c79" />
+<img width="500" height="500" alt="be653ff7-d096-4a32-924a-65ccff52f613" src="https://github.com/user-attachments/assets/33ef2e53-46a9-4541-8c24-d3f0f6f91c79" />
 
 
 ---
